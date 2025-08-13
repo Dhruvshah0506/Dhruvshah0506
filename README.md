@@ -45,6 +45,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/Dhruvshah0506/Dhruvshah0506/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Dhruvshah0506/Dhruvshah0506/blob/output/pacman-contribution-graph-dark.svg" alt="PacMan" />
 
 ###
