@@ -1,7 +1,6 @@
-
-<h2 align="left">Hi 👋! My name is Shah Dhruv</h2>
-<img align="right" height="150"  src="C:\Users\Dell\Videos\terminal.gif"  />
-
+<div align="center">
+<img align="center" height="250"  src="terminal.gif"  />
+</div>
 
 ###
 
