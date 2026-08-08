@@ -2,6 +2,12 @@
 <img align="center" height="250"  src="terminal.gif"  />
 </div>
 
+<div align="center">
+  <img src="dhruv_DHRUV_sync.gif" width="680" alt="Dhruv flicker animation" />
+</div>
+
+<br>
+
 ###
 
 <div align="center">
