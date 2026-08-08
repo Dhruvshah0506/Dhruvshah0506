@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="dhruv_DHRUV_sync.gif" width="680" alt="Dhruv flicker animation" />
+  <img src="dhruv_DHRUV_small.gif" width="680" alt="Dhruv flicker animation" />
 </div>
 
 <br>
